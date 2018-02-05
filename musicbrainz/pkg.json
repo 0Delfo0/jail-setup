@@ -1,0 +1,21 @@
+{
+    "pkgs": [
+      "perl5",
+      "p5-App-cpanminus",
+      "p5-JSON-XS",
+      "postgresql96-server",
+      "postgresql96-contrib",
+      "memcached",
+      "postgresql96-plperl",
+      "gmake",
+      "git-lite",
+      "redis",
+      "node",
+      "npm",
+      "bash",
+      "logrotate",
+      "nginx",
+      "py27-supervisor",
+      "tmux"
+    ]
+}
